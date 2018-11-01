@@ -1,4 +1,4 @@
-# jo-static-comp-2
+# static-comp-2
 
 Here is the static comp 2 example followed by my take on the static comp.
 
